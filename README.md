@@ -1,10 +1,13 @@
-# Phan Việt Bảo
+<p>
+  <picture><img src="./metrics.header.svg" alt="Phan Việt Bảo, GitHub profile summary" width="49%"></picture>
+  <picture><img src="./metrics.isocalendar.svg" alt="Isometric calendar of my GitHub contributions over the past year" width="49%"></picture>
+</p>
 
 I build retrieval and fine-tuning pipelines for Vietnamese text, and the small web apps that make them usable. Based in Hà Nội.
 
 <p>
-  <picture><img src="./metrics.isocalendar.svg" alt="Isometric calendar of my GitHub contributions over the past year" width="49%"></picture>
   <picture><img src="./metrics.languages.svg" alt="Programming languages I use most, by share of recent code" width="49%"></picture>
+  <picture><img src="./metrics.leetcode.svg" alt="LeetCode problems solved and top skills" width="49%"></picture>
 </p>
 
 ## Projects
